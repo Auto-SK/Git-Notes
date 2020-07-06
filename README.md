@@ -1,2 +1,2 @@
 # Git-Notes
-[Git Notes](Git Notes.md)
+[Git Notes](./Git Notes.md)
