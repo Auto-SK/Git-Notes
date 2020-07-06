@@ -1,7 +1,5 @@
 # Git Notes
 
-[TOC]
-
 ![img](https://sunkai-markdown-pics.oss-cn-shanghai.aliyuncs.com/imgs/20200630142143.webp)
 
 <center>Git 工作流程图</center>
