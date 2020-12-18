@@ -423,4 +423,3 @@ Git Bash
 5. [菜鸟教程 | Git 教程](https://www.runoob.com/git/git-tutorial.html)
 6. [常用 Git 命令清单](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 8. [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-
